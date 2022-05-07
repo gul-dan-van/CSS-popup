@@ -1,2 +1,2 @@
 # CSS-popup
-An HTML popup telling the user difference between sedans, SUVs, and luxury cars.
+A CSS popup about the differences between sedans, SUVs, and luxury cars.
